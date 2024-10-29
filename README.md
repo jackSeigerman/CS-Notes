@@ -11,8 +11,8 @@ feel free to fork this with your own notes if you have some from the classes lis
 - 142
 - 172
 - [231](231.md) 
-- [241](231.md)
-- [251](231.md)
+- [241](241.md)
+- [251](251.md)
 - 315
 - 320
 - 325
@@ -21,7 +21,7 @@ feel free to fork this with your own notes if you have some from the classes lis
 - 342
 - 345
 - 350
-- [355](231.md)
+- [355](355.md)
 - 360
 - 370
 - 372
