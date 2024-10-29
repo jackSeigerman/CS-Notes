@@ -1,7 +1,7 @@
 # CS-Notes
 a collection of notes for Rhodes Computer Science classes in markdown. 
 
-feel free to fork this with your own notes if you have some from the classes listed in white down below.
+feel free to merge request this with your own notes if you have some from the classes listed in white down below.
 
 ![Rhodes CS Major Tree ](/assets/RhodesCSMajor.png)
 
